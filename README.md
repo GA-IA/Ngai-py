@@ -23,7 +23,7 @@ Create user defined function with Docstring<br />
 Can be called with <code>def, function</code>.
 ### Casted Input
 Create input() variable with cast<br />
-Can be called with <code>str, float, int</code>.
+Can be called with <code>str_in, float_in, int_in</code>.
 ### If, If Else, Elif, If Elif, If Elif Else
 Create and if block<br />
 Can be called with <code>if</code> for if block.<br />
