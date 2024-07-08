@@ -40,5 +40,9 @@ Can be called with <code>for</code>.
 
 Initial release of Ngai-py
 
+## License
+
+[MIT](https://raw.githubusercontent.com/GA-IA/Ngai-py/main/LICENSE)
+
 **This is experimental extension, so issues might occured**<br/>
 **Enjoy!**
