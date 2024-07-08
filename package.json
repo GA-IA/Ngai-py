@@ -3,7 +3,7 @@
   "displayName": "Ngai-py",
   "description": "Basic snippets for your python code.",
   "version": "1.0.0",
-  "publisher": "GA_IA",
+  "publisher": "GAIA",
   "engines": {
     "vscode": "^1.91.0"
   },
