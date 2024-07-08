@@ -1,0 +1,136 @@
+{
+	// Place your global snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+	"Main Function":{
+		"scope": "python",
+		"prefix": ["main","\"\"\""],
+		"body": [
+			"\"\"\"${1:Summary of this file}\"\"\"",
+			"def main():",
+				 "\t\"\"\"Main Function\"\"\"",
+				 "\t${2:print(\"Hello, World!\")}",
+			"main()",
+			""
+		],
+		"description": "Add main function with Docstring"
+	},
+	"User Defined Function":{
+		"scope": "python",
+		"prefix": ["function", "def"],
+		"body": [
+			"def ${1:user_func}($2):",
+			"\t\"\"\"${3:Summary of this function}\"\"\"",
+			"\t${4:print(\"Hello, MyFunc!\")}",
+		],
+		"description": "Add user defined function with Docstring"
+	},
+	"String Input":{
+		"scope": "python",
+		"prefix": "str_in",
+		"body": [
+			"${1:my_var} = str(input())"
+		],
+		"description": "Create input variable with cast to string"
+	},
+	"Float Input":{
+		"scope": "python",
+		"prefix": "float_in",
+		"body": [
+			"${1:my_var} = float(input())"
+		],
+		"description": "Create input variable with cast to float"
+	},
+	"Integer Input":{
+		"scope": "python",
+		"prefix": "int_in",
+		"body": [
+			"${1:my_var} = int(input())"
+		],
+		"description": "Create input variable with cast to int"
+	},
+	"If":{
+		"scope": "python",
+		"prefix": "if",
+		"body": [
+			"if ${1:statement}:",
+				"\t${2:pass}"
+		],
+		"description": "Insert if"
+	},
+	"Else if":{
+		"scope": "python",
+		"prefix": "elif",
+		"body": [
+			"elif ${1:statement}:",
+				"\t${2:pass}"
+		],
+		"description": "Insert elif"
+	},
+	"If with Else":{
+		"scope": "python",
+		"prefix": "if_else",
+		"body": [
+			"if ${1:statement}:",
+				"\t${2:pass}",
+			"else:",
+				"\t${3:pass}"
+		],
+		"description": "Insert if and else"
+	},
+	"If with Else if":{
+		"scope": "python",
+		"prefix": "if_elif",
+		"body": [
+			"if ${1:statement}:",
+				"\t${2:pass}",
+			"elif ${3:statement}:",
+				"\t${4:pass}"
+		],
+		"description": "Insert if and else if"
+	},
+	"If with Else if and Else":{
+		"scope": "python",
+		"prefix": "if_elif_else",
+		"body": [
+			"if ${1:statement}:",
+				"\t${2:pass}",
+			"elif ${3:statement}:",
+				"\t${4:pass}",
+			"else:",
+				"\t${5:pass}"
+		],
+		"description": "Insert if and else if then else"
+	},
+	"While Loop":{
+		"scope": "python",
+		"prefix": "while",
+		"body": [
+			"while ${1:statement}:",
+			"\t${2:pass}"
+		],
+		"description": "Insert while loop"
+	},
+	"For Loop":{
+		"scope": "python",
+		"prefix": "for",
+		"body": [
+			"for i in range(0,${1:end_iteration}):",
+			"\t${2:pass}"
+		],
+		"description": "Insert for loop"
+	},
+}

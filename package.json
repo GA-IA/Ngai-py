@@ -1,0 +1,22 @@
+{
+  "name": "Ngai-py",
+  "displayName": "Ngai-py",
+  "description": "Basic snippets for your python code.",
+  "version": "1.0.0",
+  "publisher": "GA_IA",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "python",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  },
+  "icon": "ngaipyicon.png"
+}
