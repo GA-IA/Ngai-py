@@ -4,7 +4,7 @@ Ngai-py is the Python code-snippet that contains basic code like if, for, functi
 
 ## Feature
 Ngai-py contains basic snippets that can be used easily:<br />
-![exam](https://raw.githubusercontent.com/GA-IA/Ngai-py/main/readmefiles/example.mp4)<br />
+![exam](https://raw.githubusercontent.com/GA-IA/Ngai-py/main/readmefiles/example.gif)<br />
 Example Video<br />
 ![main1](https://raw.githubusercontent.com/GA-IA/Ngai-py/main/readmefiles/main1.png)<br />
 ![main2](https://raw.githubusercontent.com/GA-IA/Ngai-py/main/readmefiles/main2.png)<br />
