@@ -4,13 +4,13 @@ Ngai-py is the Python code-snippet that contains basic code like if, for, functi
 
 ## Feature
 Ngai-py contains basic snippets that can be used easily:<br />
-![exam](https://raw.githubusercontent.com/GA_IA/Ngai-py/main/readmefiles/example.mp4)<br />
+![exam](https://raw.githubusercontent.com/GA-IA/Ngai-py/main/readmefiles/example.mp4)<br />
 Example Video<br />
-![main1](https://raw.githubusercontent.com/GA_IA/Ngai-py/main/readmefiles/main1.png)<br />
-![main2](https://raw.githubusercontent.com/GA_IA/Ngai-py/main/readmefiles/main2.png)<br />
+![main1](https://raw.githubusercontent.com/GA-IA/Ngai-py/main/readmefiles/main1.png)<br />
+![main2](https://raw.githubusercontent.com/GA-IA/Ngai-py/main/readmefiles/main2.png)<br />
 Example usage of <code>main</code><br />
-![if1](https://raw.githubusercontent.com/GA_IA/Ngai-py/main/readmefiles/if1.png)<br />
-![if2](https://raw.githubusercontent.com/GA_IA/Ngai-py/main/readmefiles/if2.png)<br />
+![if1](https://raw.githubusercontent.com/GA-IA/Ngai-py/main/readmefiles/if1.png)<br />
+![if2](https://raw.githubusercontent.com/GA-IA/Ngai-py/main/readmefiles/if2.png)<br />
 Example usage of <code>if_elif_else</code><br />
 
 ## Usage
