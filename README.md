@@ -3,8 +3,15 @@
 Ngai-py is the Python code-snippet that contains basic code like if, for, function with Docstring etc.
 
 ## Feature
-Ngai-py contains basic snippets that can be used easily:
-
+Ngai-py contains basic snippets that can be used easily:<br />
+![exam](readmefiles/example.mp4)<br />
+Example Video<br />
+![main1](readmefiles/main1.png)<br />
+![main2](readmefiles/main2.png)<br />
+Example usage of <code>main</code><br />
+![if1](readmefiles/if1.png)<br />
+![if2](readmefiles/if2.png)<br />
+Example usage of <code>if_elif_else</code><br />
 
 ## Usage
 This is the list of snippets in this extension :
@@ -33,4 +40,5 @@ Can be called with <code>for</code>.
 
 Initial release of Ngai-py
 
+**This is experimental extension, so issues might occured**<br/>
 **Enjoy!**
