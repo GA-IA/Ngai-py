@@ -1,8 +1,8 @@
 {
-  "name": "Ngai-py",
+  "name": "ngai-py",
   "displayName": "Ngai-py",
   "description": "Basic snippets for your python code.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "GAIA",
   "engines": {
     "vscode": "^1.91.0"

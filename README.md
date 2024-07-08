@@ -17,10 +17,13 @@ Example usage of <code>if_elif_else</code><br />
 This is the list of snippets in this extension :
 ### main
 Create main function with Docstring and final new line.<br />
-Can be called with <code>main</code>.
+Can be called with <code>main, """</code>.
 ### User Defined Function
 Create user defined function with Docstring<br />
 Can be called with <code>def, function</code>.
+### Casted Input
+Create input() variable with cast<br />
+Can be called with <code>str, float, int</code>.
 ### If, If Else, Elif, If Elif, If Elif Else
 Create and if block<br />
 Can be called with <code>if</code> for if block.<br />
@@ -34,11 +37,6 @@ Can be called with <code>while</code>.
 ### For loop
 Create a for loop<br />
 Can be called with <code>for</code>.
-## Release Notes
-
-### 1.0.0
-
-Initial release of Ngai-py
 
 ## License
 
